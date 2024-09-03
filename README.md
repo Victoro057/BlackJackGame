@@ -7,3 +7,5 @@ How to see the project?
   1. Go to src(source)
   2. Go to edu/nhcc/victorciubaciuc/blackjack
   3. In this package, you should be able to see 3 packages, each with classes of code
+
+To test this code, you need to download everything and run the RunBlackjack.java program
